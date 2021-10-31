@@ -3,7 +3,7 @@ font-weight: lighter;}
 
 .middle-container {
     background-color: white;
-    margin-top: 100px;
+    margin-top: -70px;
     position: relative;}
 
 body {margin: 0;}
@@ -22,7 +22,7 @@ h1 {
     background-color: black; 
     padding:70px 0px 0px; 
     height: 100px; 
-    margin-top: 0;}
+    margin-top: -30px;}
 
 .head {
     background-color:#F9F3DF; 
@@ -66,4 +66,18 @@ a:hover{
 p{
     font-size: 1rem;
 }
+
+.bottom-container{
+    margin-top: -70px;
+    
+    
+
+}
+
+.last-container{
+    margin-top: -50px;
+}
    
+.para{
+    margin-top: -40px;
+}
